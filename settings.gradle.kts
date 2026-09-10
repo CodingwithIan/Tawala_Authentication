@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Tawala_Staging"
 include(":app")
- 
+include(":app:dashboard")
